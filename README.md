@@ -20,8 +20,8 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 ## Con título indicamos: Planificación semana 14: 13 al 19 de julio 2020
 | Hecho | Haciendo | Por hacer |
 | ------------- | ------------- | ------------- |
-| Modificaciones del prototipo  | Busqueda y Modificacion de imagenes para el entrenamiento |  |
-| Diapositivas para la presentacion | | Nuevos entrenamientos con diferentes parametros  |
-|  |  | Evaluacion de los nuevos resultados |
+| Modificaciones del prototipo  | Busqueda y Modificacion de imagenes para el entrenamiento | Nuevos entrenamientos con diferentes parametros  |
+| Diapositivas para la presentacion | | Evaluacion de los nuevos resultados |
+|  |  |  |
 * **Hito más importante de la semana**: Diapositivas para la presentacion
 * **Actividades logradas**: Modificaciones del prototipo, Diapositivas para la presentacion
